@@ -1,4 +1,6 @@
 # CryptoBank
+Spring Boot application for cryptographically secure transfers using RSA signing. Details can be found in the project documentation pdf.
+
 The project uses Java 23. The server runs by default on port 8080.
 It can be run using IntelliJ IDEA or by installing maven and running on the same level with **pom.xml**
    > mvn spring-boot:run
